@@ -1,6 +1,6 @@
-# Panduan Penggunaan Aplikasi Enigma Laundry
+# Panduan Penggunaan Aplikasi Sparkling Laundry
 
-Aplikasi Enigma Laundry merupakan aplikasi pengelolaan data pelanggan dan transaksi laundry Anda. Aplikasi ini berbasis konsol dan terhubung dengan PostgreSQL. Berikut adalah panduan penggunaannya:
+Aplikasi Sparkling Laundry merupakan aplikasi pengelolaan data pelanggan dan transaksi laundry Anda. Aplikasi ini berbasis konsol dan terhubung dengan PostgreSQL. Berikut adalah panduan penggunaannya:
 
 1. Mengelola Data Pelanggan
 
